@@ -94,3 +94,11 @@ header .row>div:nth-child(1)>a>img{
   border:none;
   background: pink;
 }
+
+.btn-outline-success[data-type=up]{
+  display:none;
+}
+
+.btn-outline-primary[data-type=down]{
+  display:none;
+}
